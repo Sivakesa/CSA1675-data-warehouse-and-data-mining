@@ -29,6 +29,8 @@
 ![Screenshot (450)](https://user-images.githubusercontent.com/112737435/216877146-5a357c55-991e-4efa-a8e0-f26c8d06829a.png)
 #zscore
 ![Screenshot (451)](https://user-images.githubusercontent.com/112737435/216877200-acaa5f98-5721-4351-88d7-c147fed5e4ba.png)
+#partition
+![Screenshot (452)](https://user-images.githubusercontent.com/112737435/216878118-ddd76523-4476-4fee-b72a-751091f84139.png)
 #meannormal
 ![Screenshot (453)](https://user-images.githubusercontent.com/112737435/216877255-19f6762f-b5e4-4885-91ce-d40110cce633.png)
 #minnormal
