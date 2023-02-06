@@ -21,8 +21,16 @@
 ![Screenshot (445)](https://user-images.githubusercontent.com/112737435/216875708-437a9aa1-946e-49b8-af97-9de4666af486.png)
 #barplot
 ![Screenshot (446)](https://user-images.githubusercontent.com/112737435/216875826-10a59adc-3e69-4566-ba27-7a16de89910e.png)
+#histogram
+![Screenshot (448)](https://user-images.githubusercontent.com/112737435/216876979-af2dfce2-299c-4317-89cf-c181c3b49fd7.png)
+#scatter
+![Screenshot (449)](https://user-images.githubusercontent.com/112737435/216877048-723e21ac-c1b3-421f-a375-cf55e95ec2e4.png)
+#chisq
+![Screenshot (450)](https://user-images.githubusercontent.com/112737435/216877146-5a357c55-991e-4efa-a8e0-f26c8d06829a.png)
+#zscore
+![Screenshot (451)](https://user-images.githubusercontent.com/112737435/216877200-acaa5f98-5721-4351-88d7-c147fed5e4ba.png)
 #meannormal
-![Screenshot (453)](https://user-images.githubusercontent.com/112737435/216875932-6d7b810a-50bf-4490-b108-6b98a1d4739a.png)
+![Screenshot (453)](https://user-images.githubusercontent.com/112737435/216877255-19f6762f-b5e4-4885-91ce-d40110cce633.png)
 #minnormal
 ![Screenshot (454)](https://user-images.githubusercontent.com/112737435/216876004-5b053b8a-f895-4c55-98ef-543f366a40a7.png)
 #maxnormal
